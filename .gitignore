@@ -1,4 +1,4 @@
-.DS_Store
+\.DS_Store
 .Rproj.user
 .Rhistory
 .RData
@@ -8,3 +8,5 @@ docs
 doc
 Meta
 cran-comments.md
+Wawa-StackOverflow-Reprex.R
+
